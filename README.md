@@ -42,7 +42,7 @@
 
 ### Practice
 
-- [Java Design Patterns Example in simple project](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
+- [Java Design Patterns Example in simple project. Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
 
 
 
