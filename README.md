@@ -35,6 +35,10 @@
 - [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 - [An example of transgresion of the Liskov Substitution Principle](https://www.oodesign.com/liskov-s-substitution-principle.html)
 - ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
+- [Data Access Object Pattern](https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm)
+- [XML vs JSON](https://www.guru99.com/json-vs-xml-difference.html)
+- [What is MAVEN](https://stackabuse.com/what-is-maven/)
+- [Maven vs Gradle](https://gradle.org/maven-vs-gradle/)
 
 ### Practice
 
