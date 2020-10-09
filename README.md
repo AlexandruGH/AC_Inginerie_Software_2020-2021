@@ -24,3 +24,21 @@
 - [Learning GIT BASH if necessary](https://www.codecademy.com/learn/learn-git)
 - [Java Basics - Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411)
 - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
+
+
+## Laborator 2
+
+### Story
+- [PODCAST Andrei Dunca. Absolvent Calculatoare, Fondator Trilulilu. Fondator LiveRail, startup cumpărat de Facebook cu 500 milioane $](https://www.youtube.com/watch?v=Z0RWeMWriAE&t=1260s)
+
+### Theory
+- [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
+- [An example of transgresion of the Liskov Substitution Principle](https://www.oodesign.com/liskov-s-substitution-principle.html)
+- ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
+
+### Practice
+
+- [Java Design Patterns Example in simple project](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
+
+
+
