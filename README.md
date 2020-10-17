@@ -44,5 +44,18 @@
 
 - [Java Design Patterns Example in simple project. Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
 
+## Laborator 3
 
+### Story
+ - [Rada Mihalcea. Povestea româncei absolvente de Calculatoare care a ajuns în topul geniilor din SUA](https://adevarul.ro/locale/cluj-napoca/exclusiv-povestea-romancei-l-a-cucerit-peobama-ajuns-rada-mihalcea-topul-geniilor-sua-1_5413f8020d133766a818400f/index.html)
 
+### Theory
+- [Singleton Design pattern written the right way](https://medium.com/@cancerian0684/singleton-design-pattern-and-how-to-make-it-thread-safe-b207c0e7e368)
+- [Why is Singleton an antipattern?](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
+- [Final keyword uses](https://www.baeldung.com/java-final)
+- [Dependency injection and history explained. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+- [SQL Injection](https://www.youtube.com/watch?v=_jKylhJtPmI&feature=youtu.be)
+- [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&feature=youtu.be)
+
+### Practice
+- [Java with MySQL](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
