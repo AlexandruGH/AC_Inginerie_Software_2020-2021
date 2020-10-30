@@ -65,7 +65,7 @@
 ## Laborator 4
 
 ### Story
--[]()
+- [Clean Code Talks - "Global State and Singletons"](https://youtu.be/-FRm3VPhseI)
 
 ### Theory
 
@@ -74,9 +74,26 @@
 - [Java volatile keyword and its use](http://tutorials.jenkov.com/java-concurrency/volatile.html)
 - [Layers architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
 - [Martin Fowler on DEPENDENCY INJECTION](https://martinfowler.com/articles/injection.html)
-- [Clean Code Talks - "Global State and Singletons"](https://youtu.be/-FRm3VPhseI)
+
 
 ### Practice
 - [Lab Code Example](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Example%202)
 
+## Laboratory 5
 
+### Story
+ - [Clean Code Talks - Don't Look For Things!](https://youtu.be/RlfLCWKxHJ0)
+ 
+### Theory
+- [Roles, Rights added as a concept to the database and the technologies that exist for it.](https://stackoverflow.com/questions/48467948/what-is-the-best-approach-to-create-a-role-based-web-application)
+- [Password Cracking - How is done](https://youtu.be/7U-RbOKanYs)
+- [How NOT to store passwords](https://youtu.be/8ZtInClXe1Q)
+- [How to chose a password](https://youtu.be/3NjQ9b3pgIg)
+- [Hashing Algorithms](https://youtu.be/b4b8ktEV4Bg)
+- [SHA - Secure Hash Algorithm explained](https://youtu.be/DMtFhACPnTY)
+- [How password managers work](https://youtu.be/w68BBPDAWr8)
+- [Most common password lists per application](https://github.com/rapid7/metasploit-framework/tree/master/data/wordlists)
+- [Have I been PAWNED?](https://haveibeenpwned.com/)
+
+### Practice
+- [Lab Code Example](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Example%202)
