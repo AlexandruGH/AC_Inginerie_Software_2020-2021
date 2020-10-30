@@ -74,11 +74,9 @@
 - [Java volatile keyword and its use](http://tutorials.jenkov.com/java-concurrency/volatile.html)
 - [Layers architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
 - [Martin Fowler on DEPENDENCY INJECTION](https://martinfowler.com/articles/injection.html)
-
+- [Clean Code Talks - "Global State and Singletons"](https://youtu.be/-FRm3VPhseI)
 
 ### Practice
 Lab code example
 
 
-
-### Practice
