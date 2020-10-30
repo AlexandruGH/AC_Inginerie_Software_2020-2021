@@ -77,6 +77,6 @@
 - [Clean Code Talks - "Global State and Singletons"](https://youtu.be/-FRm3VPhseI)
 
 ### Practice
-Lab code example
+- [Lab Code Example](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Example%202)
 
 
