@@ -59,3 +59,26 @@
 
 ### Practice
 - [Java with MySQL](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
+
+
+
+## Laborator 4
+
+### Story
+-[]()
+
+### Theory
+
+- [Decorator Design Pattern - not to be confused with Adapter in practice](https://refactoring.guru/design-patterns/decorator)
+- [CPU Cache memory explained](https://youtu.be/sHqNMHf2UNI)
+- [Java volatile keyword and its use](http://tutorials.jenkov.com/java-concurrency/volatile.html)
+- [Layers architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [Martin Fowler on DEPENDENCY INJECTION](https://martinfowler.com/articles/injection.html)
+
+
+### Practice
+Lab code example
+
+
+
+### Practice
