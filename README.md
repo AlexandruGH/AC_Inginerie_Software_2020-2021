@@ -104,6 +104,15 @@
 
 ## Laboratory 6
 
+## Story
+- [Is TDD(Test-Driven Development) DEAD?](https://www.youtube.com/watch?v=z9quxZsLcfo&list=PLJb2p0qX8R_qSRhs14CiwKuDuzERXSU8m)
+
+## Theory
+- [Programming vs Scripting](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
+- [Bootstrap and Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping)
+- [Fowler's Notification Pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+- [Java Exceptions best practices PART I](https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best-practices.html)
+- [Java Exceptions best practices PART II](https://javarevisited.blogspot.com/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)
 
 ## Practice
 
