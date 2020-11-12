@@ -92,6 +92,7 @@
 - [Roles, Rights added as a concept to the database and the technologies that exist for it.](https://stackoverflow.com/questions/48467948/what-is-the-best-approach-to-create-a-role-based-web-application)
 - [Password Cracking - How is done](https://youtu.be/7U-RbOKanYs)
 - [How NOT to store passwords](https://youtu.be/8ZtInClXe1Q)
+- [Rainbow tables](https://www.ckd3.com/blog/rainbowtables)
 - [How to chose a password](https://youtu.be/3NjQ9b3pgIg)
 - [Hashing Algorithms](https://youtu.be/b4b8ktEV4Bg)
 - [SHA - Secure Hash Algorithm explained](https://youtu.be/DMtFhACPnTY)
@@ -122,4 +123,14 @@
 ## Laboratory 7
 
 ## Practice
+- [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [MySQL Installation](https://dev.mysql.com/downloads/installer/)
+- [Database setup in IntelliJ. Don't forget to chose MySQL and in the SCHEMA menu to choose the databases that you use.](https://youtu.be/UnDd32qRhDI)
+
 - [Complete Library scheleton done](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Library)
+
+
+## Common Errors 
+### Don't forget! Github is only for source files. Configs, binaries, build and IDE files are not present in the repository, so opening a downloaded archive from github will not run. You must create a new Gradle project in IntelliJ.
+- [MySQLNonTransientConnectionException; consider upgrading MySQL client - check version of mysql server and in Gradle to match](https://stackoverflow.com/questions/50505042/mysqlnontransientconnectionexception-client-does-not-support-authentication-pro)
+- [Return Generated Keys bug solved](https://stackoverflow.com/questions/7162989/sqlexception-generated-keys-not-requested-mysql)
