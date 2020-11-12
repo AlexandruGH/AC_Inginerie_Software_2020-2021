@@ -117,3 +117,9 @@
 ## Practice
 
 - [Final Java Project template](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Example%203)
+
+
+## Laboratory 7
+
+## Practice
+- [Complete Library scheleton done](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Library)
