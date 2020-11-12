@@ -126,6 +126,7 @@
 - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [MySQL Installation](https://dev.mysql.com/downloads/installer/)
 - [Database setup in IntelliJ. Don't forget to chose MySQL and in the SCHEMA menu to choose the databases that you use.](https://youtu.be/UnDd32qRhDI)
+- [Gradle MySQL Connector](https://mvnrepository.com/artifact/mysql/mysql-connector-java/5.1.13)
 
 - [Complete Library scheleton done](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Library)
 
