@@ -135,3 +135,11 @@
 ### Don't forget! Github is only for source files. Configs, binaries, build and IDE files are not present in the repository, so opening a downloaded archive from github will not run. You must create a new Gradle project in IntelliJ.
 - [MySQLNonTransientConnectionException; consider upgrading MySQL client - check version of mysql server and in Gradle to match](https://stackoverflow.com/questions/50505042/mysqlnontransientconnectionexception-client-does-not-support-authentication-pro)
 - [Return Generated Keys bug solved](https://stackoverflow.com/questions/7162989/sqlexception-generated-keys-not-requested-mysql)
+
+## Laboratory 8
+
+- [MVC vs LAYERS](https://stackoverflow.com/questions/10739914/what-is-the-difference-between-3-tier-architecture-and-a-mvc)
+- [Real world example of application of the COMMAND pattern](https://stackoverflow.com/questions/12153708/real-world-example-of-application-of-the-command-pattern)
+
+## Practice
+- [MVC Command pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/CommandExample)
