@@ -18,7 +18,7 @@ public class Constants {
     }
 
     public static class Tables {
-        public static final String BOOK = "repository.book";
+        public static final String BOOK = "book";
         public static final String USER = "user";
         public static final String ROLE = "role";
         public static final String RIGHT = "right";

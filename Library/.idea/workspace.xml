@@ -23,53 +23,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="196a581c-b7d5-4c8c-a7e2-bb0725b25fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComponentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/Boostrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/DBConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/SQLTableCreationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Right.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/builder/BookBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/builder/UserBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/validation/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/validation/ResultFetchException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/validation/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/EntityNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/book/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/book/BookRepositoryCacheDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/book/BookRepositoryDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/book/BookRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/book/BookRepositoryMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/security/RightsRolesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/security/RightsRolesRepositoryMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/user/AuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/user/UserRepositoryMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/book/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/book/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/user/AuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/user/AuthenticationServiceMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/LoginView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/repository/book/BookRepositoryMockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/repository/book/BookRepositoryMySQLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/book/BookServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/user/AuthenticationServiceMySQLTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example 3/.gradle/3.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Example 3/.gradle/3.1/taskArtifacts/cache.properties.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example 3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example 3/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/command/ChangeFieldCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/CommandStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/model/SampleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/view/SampleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/command/ChangeFieldCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/controller/CommandStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/model/SampleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/view/SampleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5292f5e7-7568-4c4c-825e-c112b32ae16d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b34ea0cb-c292-4ff9-a2bf-02d9b7a7ddc2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b34ea0cb-c292-4ff9-a2bf-02d9b7a7ddc2/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Boostrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/Boostrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Constants$Tables.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/Constants$Tables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/JDBConnectionWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/JDBConnectionWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/SQLTableCreationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/SQLTableCreationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/service.user.AuthenticationServiceMySQLTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/service.user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-service.user.AuthenticationServiceMySQLTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/Boostrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Boostrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/SQLTableCreationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/SQLTableCreationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/user/UserRepositoryMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/user/UserRepositoryMySQL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,55 +106,42 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model.validation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkspace\Library\src\main" />
       <recent name="D:\JavaWorkspace\Library\src\test\java" />
       <recent name="D:\JavaWorkspace\Library\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AuthenticationServiceMySQLTest">
+  <component name="RunManager" selected="Gradle.BookRepositoryMockTest">
+    <configuration name="Boostrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.Boostrap" />
+      <module name="Library.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Launcher" />
       <module name="Library.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AuthenticationServiceMySQLTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;service.user.AuthenticationServiceMySQLTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="BookRepositoryMockTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -191,12 +181,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BookServiceImplTest.findAll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="BookRepositoryMySQLTest.findAll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;service.book.BookServiceImplTest.findAll&quot;" />
+        <option name="scriptParameters" value="--tests &quot;repository.book.BookRepositoryMySQLTest.findAll&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -212,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.AuthenticationServiceMySQLTest" />
-        <item itemvalue="Gradle.BookServiceImplTest.findAll" />
         <item itemvalue="Gradle.BookRepositoryMockTest" />
         <item itemvalue="Gradle.BookRepositoryMySQLTest" />
+        <item itemvalue="Gradle.BookRepositoryMySQLTest.findAll" />
         <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Boostrap" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +218,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605136105494</updated>
-      <workItem from="1605136107028" duration="2981000" />
+      <workItem from="1605136107028" duration="3371000" />
+      <workItem from="1605161715384" duration="14076000" />
+      <workItem from="1605767666595" duration="3366000" />
     </task>
     <servers />
   </component>
@@ -245,12 +237,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605137239448">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605169155440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605137239448" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605169155440" />
     <state x="888" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605138644489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -259,38 +252,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="951" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1605138637322" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605138785938">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605162012920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605138785938" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605138785938">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605162012920" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1605178380932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605138785938" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605138785938">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605178380932" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1605178380932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605138785938" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605138785938">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605178380932" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1605178380931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605138785938" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605137568825">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605178380931" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1605178380932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605137568825" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605137568824">
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605178380932" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605178380922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605137568824" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605137568824">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605178380922" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605178380921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605137568824" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605137568824">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605178380921" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605178380921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605137568824" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605178380921" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605178380921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605178380921" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1605136872105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -299,16 +296,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1605137312101" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="360" y="96" key="new project wizard" timestamp="1605168915179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="96" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605168915179" />
   </component>
 </project>

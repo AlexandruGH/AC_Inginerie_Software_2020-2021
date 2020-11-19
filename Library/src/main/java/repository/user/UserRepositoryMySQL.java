@@ -50,6 +50,7 @@ public class UserRepositoryMySQL implements UserRepository {
             }
         } catch (SQLException e) {
             e.printStackTrace();
+
             throw new AuthenticationException();
         }
     }
@@ -58,7 +59,7 @@ public class UserRepositoryMySQL implements UserRepository {
     public boolean save(User user) {
         try {
             PreparedStatement insertUserStatement = connection
-                    .prepareStatement("INSERT INTO user values (null, ?, ?)", Statement.RETURN_GENERATED_KEYS);
+                    .prepareStatement("INSERT INTO user values (null, ?, ?)",Statement.RETURN_GENERATED_KEYS);
             insertUserStatement.setString(1, user.getUsername());
             insertUserStatement.setString(2, user.getPassword());
             insertUserStatement.executeUpdate();

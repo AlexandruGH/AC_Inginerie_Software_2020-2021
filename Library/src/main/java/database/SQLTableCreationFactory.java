@@ -10,7 +10,7 @@ public class SQLTableCreationFactory {
     public String getCreateSQLForTable(String table) {
         switch (table) {
             case BOOK:
-                return "CREATE TABLE IF NOT EXISTS repository.book (" +
+                return "CREATE TABLE IF NOT EXISTS book (" +
                         "  id int(11) NOT NULL AUTO_INCREMENT," +
                         "  author varchar(500) NOT NULL," +
                         "  title varchar(500) NOT NULL," +
