@@ -143,3 +143,10 @@
 
 ## Practice
 - [MVC Command pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/CommandExample)
+
+
+
+## Evaluation
+
+## Theory examination
+- [Theory topics](https://docs.google.com/spreadsheets/d/1PU7KQOrIB06W-6vKu4lwQCaPwgZTt4xqpLehseFVvcA/edit?usp=sharing)
