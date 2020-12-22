@@ -104,24 +104,24 @@
 
 ## Laboratory 6
 
-## Story
+### Story
 - [Is TDD(Test-Driven Development) DEAD?](https://www.youtube.com/watch?v=z9quxZsLcfo&list=PLJb2p0qX8R_qSRhs14CiwKuDuzERXSU8m)
 
-## Theory
+### Theory
 - [Programming vs Scripting](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
 - [Bootstrap and Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping)
 - [Fowler's Notification Pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
 - [Java Exceptions best practices PART I](https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best-practices.html)
 - [Java Exceptions best practices PART II](https://javarevisited.blogspot.com/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)
 
-## Practice
+### Practice
 
 - [Final Java Project template](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Example%203)
 
 
 ## Laboratory 7
 
-## Practice
+### Practice
 - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [MySQL Installation](https://dev.mysql.com/downloads/installer/)
 - [Database setup in IntelliJ. Don't forget to chose MySQL and in the SCHEMA menu to choose the databases that you use.](https://youtu.be/UnDd32qRhDI)
@@ -140,32 +140,32 @@
 - [MVC vs LAYERS](https://stackoverflow.com/questions/10739914/what-is-the-difference-between-3-tier-architecture-and-a-mvc)
 - [Real world example of application of the COMMAND pattern](https://stackoverflow.com/questions/12153708/real-world-example-of-application-of-the-command-pattern)
 
-## Practice
+### Practice
 - [MVC Command pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/CommandExample)
 
 
 
-## Evaluation
+### Evaluation
 
-## Theory examination
+### Theory examination
 - [Theory topics](https://docs.google.com/spreadsheets/d/1PU7KQOrIB06W-6vKu4lwQCaPwgZTt4xqpLehseFVvcA/edit?usp=sharing)
 
 
 ## Laboratory 9
 
-## Practice
+### Practice
 - [Java Thread Pool, Synchronized and more](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
 
 
 ## Laboratory 10 
 
-## Theory
+### Theory
 - [Client-Server model](https://youtu.be/L5BlpPU_muY)
 - [IPv4 vs IPv6](https://youtu.be/aor29pGhlFE)
 - [MAC Address](https://youtu.be/UrG7RTWIJak)
 - [DNS Explained](https://youtu.be/Rck3BALhI5c)
 
-## Practice
+### Practice
 - [Java Sockets beginner](https://www.baeldung.com/a-guide-to-java-sockets)
 - [Java Sockets extended edition](https://www.baeldung.com/a-guide-to-java-sockets)
 
@@ -173,6 +173,6 @@
 
 ## Laboratory 11
 
-## Practice
+### Practice
  -[Spring tutorial](https://www.youtube.com/playlist?list=PLs5n5nYB22fIVO1nSiNoUTHIbQujdHYuC)
  -[Spring documentation](https://spring.io/quickstart)
