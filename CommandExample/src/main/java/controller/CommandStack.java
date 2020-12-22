@@ -5,6 +5,7 @@ import command.Command;
 import java.util.Stack;
 
 public class CommandStack {
+
     private final Stack<Command> undoStack;
     private final Stack<Command> redoStack;
 

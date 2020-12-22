@@ -9,11 +9,13 @@ public class SampleModel extends Observable {
         return field;
     }
 
-
     public void setField(String field){
         this.field=field;
+
         setChanged();
         notifyObservers();
     }
+
+
 
 }

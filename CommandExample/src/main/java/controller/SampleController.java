@@ -8,9 +8,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Observable;
 import java.util.Observer;
+import java.util.function.ObjDoubleConsumer;
 
 public class SampleController implements Observer {
-
 
     private final CommandStack commandStack;
     private final SampleView view;
@@ -52,4 +52,3 @@ public class SampleController implements Observer {
         }
     }
 }
-

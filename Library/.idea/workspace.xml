@@ -23,56 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="196a581c-b7d5-4c8c-a7e2-bb0725b25fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/command/ChangeFieldCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/CommandStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/SampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/model/SampleModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/view/SampleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/command/ChangeFieldCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/controller/CommandStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/controller/SampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/model/SampleModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExampleMVCCommnand/src/main/java/view/SampleView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5292f5e7-7568-4c4c-825e-c112b32ae16d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b34ea0cb-c292-4ff9-a2bf-02d9b7a7ddc2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b34ea0cb-c292-4ff9-a2bf-02d9b7a7ddc2/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/controller/CommandStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/controller/CommandStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/model/SampleModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/model/SampleModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/view/SampleView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/build/classes/java/main/view/SampleView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/src/main/java/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/CommandStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/CommandStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/controller/SampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/src/main/java/model/SampleModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/model/SampleModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandExample/src/main/java/view/SampleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandExample/src/main/java/view/SampleView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Boostrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/Boostrap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Constants$Tables.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/Constants$Tables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/JDBConnectionWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/JDBConnectionWrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/SQLTableCreationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/database/SQLTableCreationFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/service.user.AuthenticationServiceMySQLTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/service.user.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-service.user.AuthenticationServiceMySQLTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Boostrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Boostrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/JDBConnectionWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/SQLTableCreationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/SQLTableCreationFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/user/UserRepositoryMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/user/UserRepositoryMySQL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +185,7 @@
       <updated>1605136105494</updated>
       <workItem from="1605136107028" duration="3371000" />
       <workItem from="1605161715384" duration="14076000" />
-      <workItem from="1605767666595" duration="3366000" />
+      <workItem from="1605767666595" duration="6029000" />
     </task>
     <servers />
   </component>
