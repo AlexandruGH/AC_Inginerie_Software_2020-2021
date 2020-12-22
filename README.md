@@ -150,3 +150,29 @@
 ## Theory examination
 - [Theory topics](https://docs.google.com/spreadsheets/d/1PU7KQOrIB06W-6vKu4lwQCaPwgZTt4xqpLehseFVvcA/edit?usp=sharing)
 
+
+## Laboratory 9
+
+## Practice
+- [Java Thread Pool, Synchronized and more](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+
+
+## Laboratory 10 
+
+## Theory
+- [Client-Server model](https://youtu.be/L5BlpPU_muY)
+- [IPv4 vs IPv6](https://youtu.be/aor29pGhlFE)
+- [MAC Address](https://youtu.be/UrG7RTWIJak)
+- [DNS Explained](https://youtu.be/Rck3BALhI5c)
+
+## Practice
+- [Java Sockets beginner](https://www.baeldung.com/a-guide-to-java-sockets)
+- [Java Sockets extended edition](https://www.baeldung.com/a-guide-to-java-sockets)
+
+
+
+## Laboratory 11
+
+## Practice
+ -[Spring tutorial](https://www.youtube.com/playlist?list=PLs5n5nYB22fIVO1nSiNoUTHIbQujdHYuC)
+ -[Spring documentation](https://spring.io/quickstart)
