@@ -2,8 +2,7 @@
 
 # Assignments
  - [Assignment One - 60 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/blob/master/Assignments/Assignment1.pdf)
- - [Assignment Two - 30 points]
- - [Assignment Three - 20 points]
+ - [Assignment Two - 50 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
 
 ## ~ Laboratory ~
 
@@ -150,3 +149,4 @@
 
 ## Theory examination
 - [Theory topics](https://docs.google.com/spreadsheets/d/1PU7KQOrIB06W-6vKu4lwQCaPwgZTt4xqpLehseFVvcA/edit?usp=sharing)
+
