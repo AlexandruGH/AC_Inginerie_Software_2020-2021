@@ -1,8 +1,8 @@
 # AC_Inginerie_Software_2020-2021
 
 # Assignments
- - [Assignment One - 60 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/blob/master/Assignments/Assignment1.pdf)
- - [Assignment Two - 50 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
+ - [Assignment One - 70 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/blob/master/Assignments/Assignment1.pdf)
+ - [Assignment Two - 30 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
 
 ## ~ Laboratory ~
 
